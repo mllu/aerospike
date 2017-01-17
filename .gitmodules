@@ -7,3 +7,9 @@
 [submodule "aerospike-client-java"]
 	path = aerospike-client-java
 	url = git@github.com:aerospike/aerospike-client-java.git
+[submodule "aerospike-sample-applications"]
+	path = aerospike-sample-applications
+	url = git@github.com:aerospike/aerospike-sample-applications.git
+[submodule "aerospike-client-go"]
+	path = aerospike-client-go
+	url = git@github.com:aerospike/aerospike-client-go.git
