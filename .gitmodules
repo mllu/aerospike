@@ -1,0 +1,3 @@
+[submodule "aerospike-loader"]
+	path = aerospike-loader
+	url = git@github.com:aerospike/aerospike-loader.git
