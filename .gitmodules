@@ -1,3 +1,6 @@
 [submodule "aerospike-loader"]
 	path = aerospike-loader
 	url = git@github.com:aerospike/aerospike-loader.git
+[submodule "movie-analytics"]
+	path = movie-analytics
+	url = git@github.com:aerospike/movie-analytics.git
